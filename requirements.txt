@@ -1,11 +1,10 @@
-git+https://github.com/youesky/pyrogram
 # --- For-Bot-Working --------- #
-pyrogram
+pymongo==3.12.1
 TgCrypto
 pyromod
 # --- For-Database ------------ #
-pymongo
-motor
+pymongo==3.12.1
+motor==2.5.1
 umongo
 dnspython
 marshmallow
